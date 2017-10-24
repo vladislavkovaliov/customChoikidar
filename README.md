@@ -3,7 +3,7 @@ The purpose of this repositories is to demonstrate one of ways how to do homewor
 
 ### Installation
 Dillinger requires [Node.js](https://nodejs.org/) v7+ to run.
-Install the dependencies and devDependencies and start the server.
+Install the dependencies and devDependencies and start.
 
 ```sh
 $ cd customChokidar
